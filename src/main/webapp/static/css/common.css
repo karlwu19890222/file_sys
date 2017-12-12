@@ -1,0 +1,247 @@
+#index-nav {
+	background-color: #2C3B41;
+	border: 0px;
+}
+
+#index-nav a {
+	text-decoration: none;
+	color: #999999;
+}
+
+#index-nav a:active,
+#index-nav a:visited,
+#index-nav a:hover {
+	text-decoration: none;
+	color: #FF8C00;
+}
+
+#index-nav .accordion .accordion-header {
+	border-width: 0 0 0px;
+	background: #221D23;
+	color: red;
+	cursor: pointer;
+}
+
+#index-nav .accordion {
+	overflow: hidden;
+	border-width: 0px;
+	border-style: solid;
+}
+
+#index-nav .accordion .accordion-body {
+	border-width: 0 0 0px;
+}
+
+#index-nav .panel-body {
+	background-color: #110E11;
+	color: #FFFFFF;
+	font-size: 12px;
+}
+
+#index-nav .panel-header,
+#index-nav .panel-body {
+	border-color: #D3D3D3;
+	border: 0;
+}
+
+#index-nav .panel-title {
+	font-size: 13px;
+	font-weight: 100;
+	color: #EFEFF0;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 35px;
+	letter-spacing: 1px;
+}
+
+#index-nav .panel-icon {
+	left: 15px;
+	width: 20px;
+	top: 18.5px;
+	color: #FFFFFF;
+}
+
+.index-left-nav {
+	margin-bottom: 10px;
+	margin-left: 20px;
+	font-size: 10px;
+	letter-spacing: 2px;
+	margin-top: 10px;
+}
+
+.index-left-nav a {
+	padding-left: 10px;
+}
+
+.head-left span {
+	font-size: 18px;
+	line-height: 50px;
+	margin-left: 15px;
+}
+
+.head-left {
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	width: 174px;
+	height: 100%;
+	color: #FFFFFF;
+}
+
+.head-right {
+	padding-right: 20px;
+	float: right;
+}
+
+.head-right-01 {
+	padding-right: 20px;
+	float: right;
+	margin-top: 5px;
+}
+
+.head-right-01 img {
+	height: 40px;
+	width: 40px;
+	border-radius: 45px;
+}
+
+.panel.easyui-fluid {
+	float: left;
+}
+
+.index_sub_nav {
+	width: 100%;
+	height: 500px;
+}
+
+#nav_sub .accordion .accordion-header {
+	background: #161219;
+}
+
+
+/**全局**/
+
+.l-btn-icon-left .l-btn-icon {
+	padding-top: 0px;
+}
+
+.window,
+.window-shadow {
+	border-radius: 1px 1px 1px 1px;
+	border-top: 2px ridge #00A65A;
+}
+
+
+.grid tr {
+	height: 30px;
+}
+
+.grid {
+	border-collapse: collapse;
+    width: 99.2%;
+    border: 1px solid #E3E3E3;
+    font-size: 12px;
+    margin: 1% 0.3%;
+}
+
+.grid th {
+	background: none repeat scroll 0 0 #E7F3FE;
+	border: 1px solid #E3E3E3;
+	height: 22px;
+	line-height: 22px;
+	padding-left: 3px;
+}
+
+
+.grid td {
+	font-size: 12px;
+	height: 18px;
+	border: 1px solid #E3E3E3;
+	padding: 2px 5px;
+}
+
+.grid td .textbox {
+	width:100%  ! important;
+}
+
+.grid td.name {
+	text-align: center;
+	background-color: #F1F1F1;
+	width: 100px;
+}
+
+.grid td.head {
+	text-align: center;
+	font-size:14px;
+	height: 40px;
+	font-weight: bold;
+	background: -webkit-linear-gradient(#D7E1C8, #F1F1F1); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(#D7E1C8, #F1F1F1); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(#D7E1C8, #F1F1F1); /* Firefox 3.6 - 15 */
+    background: linear-gradient(#D7E1C8, #F1F1F1); /* 标准的语法 */
+}
+
+.grid td.title {
+	text-align: center;
+	font-size:14px;
+	height: 22px;
+	background-color: #F0F0F0;
+	font-weight: bold;
+}
+
+.container{
+	padding-left: 12%;
+	padding-right: 12%;
+}
+
+.container-small{
+	padding-left: 25%;
+	padding-right: 25%;
+	padding-top:5%;
+}
+
+
+.fa {
+	padding-top: 0px;
+}
+
+.tree-file {
+	background: none;
+}
+
+ul {
+	list-style: none;
+}
+
+.hide {
+	display: none;
+}
+
+.itemParam ul {
+	padding-left: 0px;
+}
+
+.itemParam li {
+	line-height: 25px;
+}
+
+.itemForm .pics ul {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.itemForm .pics ul li {
+	float: left;
+	padding-right: 5px;
+}
+
+.itemForm .group {
+	font-weight: bold;
+	text-align: center;
+	background-color: #EAEAEA;
+}
+
+.itemForm .param {
+	width: 80px;
+	text-align: right;
+}
