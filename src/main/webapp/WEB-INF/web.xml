@@ -28,6 +28,8 @@
 	        <param-value>true</param-value>
 	    </init-param>
 	</filter>
+	
+	
 	<filter-mapping>
 		<filter-name>CharacterEncodingFilter</filter-name>
 		<url-pattern>/*</url-pattern>
