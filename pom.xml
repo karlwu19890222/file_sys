@@ -42,7 +42,7 @@
 	</properties>
 
 	<dependencies>
-		<!-- springframe start -->
+		<!-- spring Jar Start-->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
